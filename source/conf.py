@@ -21,7 +21,7 @@
 
 project = u'World of Collabris'
 copyright = u'2018, Matt Colville, Callum John'
-author = u'Matt Colville, Callum John'
+author = u'Matt Colville, Callum John, Jonathan Scott'
 
 # The short X.Y version
 version = u''
