@@ -1,5 +1,5 @@
-.. _modindex
+.. _modindex:
 
 ##########
-Modules
+modindex
 ##########
